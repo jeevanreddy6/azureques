@@ -15,7 +15,7 @@ namespace WebAppques.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This is from Rishabh Reddy .";
+            ViewBag.Message = "This is from Rishabh Reddy . Updated Jeevan Redy";
 
             return View();
         }
